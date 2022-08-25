@@ -121,3 +121,8 @@ if not a:
   print("Boolean value of a is False")
 else:
   print("Boolean value of a is True")
+
+# Tuples
+
+tuple_name = ["entry1", "entry2", "entry3"]
+my_tuple = ["shyam",23,True,"male"]
